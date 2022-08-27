@@ -1,7 +1,6 @@
 # End 2 End Machine Learning : From Data Collection to Deployment 🚀 
 
 In this post, we'll go through the necessary steps to build and deploy a machine learning application. This starts from data collection to deployment; and the journey, you'll see, is exciting and fun. 😀
-![app](https://user-images.githubusercontent.com/87234353/187020518-e23d51b3-e4e5-4ff8-9a8d-f24ced9c319f.gif)
 
 <p align="center">
     <img src="./blog-post/assets/app.gif"  style="margin:15px">
