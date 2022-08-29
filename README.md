@@ -1,14 +1,4 @@
-# End 2 End Machine Learning : From Data Collection to Deployment 🚀 
-
-In this job, I collaborated with <a href="https://github.com/ahmedbesbes">Ahmed BESBES</a>
-
-Medium post <a href="https://medium.com/@ahmedbesbes/end-to-end-machine-learning-from-data-collection-to-deployment-ce74f51ca203">here</a>.
-
-You may also read about it <a href="https://ahmedbesbes.com/end-to-end-ml.html">here</a> and <a href="https://marwandebbiche.com/posts/e2e-ml/">here</a>.
-
-In this post, we'll go through the necessary steps to build and deploy a machine learning application. This starts from data collection to deployment; and the journey, you'll see, is exciting and fun. 😀
-
-Before we begin, let's have a look at [the app](https://www.reviews.ai2prod.com/) we'll build:
+# Product Sentiment Analysit 
 
 <p align="center">
     <img src="./blog-post/assets/app.gif"  style="margin:15px">
@@ -71,21 +61,3 @@ In order to run the `dash` server to visualize the output:
 cd src/dash/
 python app.py
 ```
-
-
-### How to contribute 😁
-
-Feel free to contribute! Report any bugs in the [issue section](https://github.com/MarwanDebbiche/post-tuto-deployment/issues).
-
-Here are the few things we noticed, and wanted to add.
-
-- [ ] Add server-side pagination for Admin Page and `GET /api/reviews` route.
-- [ ] Protect admin page with authentication.
-- [ ] Either use [Kubernetes](https://kubernetes.io) or [Amazon ECS](https://aws.amazon.com/ecs) to deploy the app on a cluster of containers, instead of on one single EC2 instance.
-- [ ] Use continuous deployment with [Travis CI](https://travis-ci.org)
-- [ ] Use a managed service such as [RDD](https://aws.amazon.com/rds/) for the database
-
-
-### Licence
-
-MIT
