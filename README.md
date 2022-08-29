@@ -1,7 +1,7 @@
 # Product Sentiment Analysit 
 
 <p align="center">
-    <img src="./blog-post/assets/app.gif"  style="margin:15px">
+    <img src="./app.gif"  style="margin:15px">
 </p>
 
 As you see, this web app allows a user to evaluate random brands by writing reviews. While writing, the user will see the sentiment score of his input updating in real-time, alongside a proposed 1 to 5 rating.
