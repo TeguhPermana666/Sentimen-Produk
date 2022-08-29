@@ -1,6 +1,4 @@
-# Product Sentiment Analysit 🚀 
-
-In this post, we'll go through the necessary steps to build and deploy a machine learning application. This starts from data collection to deployment; and the journey, you'll see, is exciting and fun. 😀
+# Product Sentiment Analysit 
 
 <p align="center">
     <img src="./blog-post/assets/app.gif"  style="margin:15px">
